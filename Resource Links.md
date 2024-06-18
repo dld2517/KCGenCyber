@@ -3,6 +3,14 @@
 Hacker Lingo / Dictionary
 https://www.netogram.com/hackersdictionarylexicon.html
 
+Children's Cyber Safety Game
+https://beinternetawesome.withgoogle.com/en_us/interland/landing/mindful-mountain
+
+
+**Learning Environments**
+
+TryHackMe
+https://tryhackme.com/
 
 **Fun for Demos**
 
@@ -21,6 +29,38 @@ Hack Prank
 https://hackprank.com
 
 
+**Hacking Gmaes**
+
+Ransomware Attack Simulator
+https://ig.ft.com/ransomware-game/
+
+Data Center Attack
+http://datacenterattacks.trendmicro.com/
+
+OWASP Juice Shop
+https://owasp-juice.shop
+https://help.owasp-juice.shop/
+
+My local installation of the app (Heroku)
+https://gencyber-juice-shop-f4269dc8a791.herokuapp.com/#/score-board
+
+OWASP Juice Shop
+Github page
+https://github.com/juice-shop/juice-shop
+
+Note: OWASP Juice shop is a room added to TryHackMe so you do not have to learn how to install it in order to play it.
+
+Challenge-solving guide
+https://pwning.owasp-juice.shop/companion-guide/latest/
+
+OverTheWire
+https://overthewire.org/wargames/
+
+Bandit CTF (OverTheWire)
+https://overthewire.org/wargames/bandit/
+
+
+
 **Other helpfful sites**
 
 Software and device simulators
@@ -30,6 +70,8 @@ Common software such as most versions of email clients, web browsers, browsers, 
 
 https://www.chasms.com
 
+Linux Journey - Learn Linux for Free
+https://linuxjourney.com/
 
 **Search Engines**
 
@@ -39,6 +81,10 @@ https://www.google.com
 Duck Duck Go
 https://www.duckduckgo.com
 A privacy engine that also uses shortcuts.
+
+Yandex
+https://www.yandex.com
+
 
 Dogpile
 https://www.dogpile.com
@@ -52,3 +98,59 @@ https://searxng.online/
 
 This is an open-soruce public search engine.
 You can find mirrors here: https://searx.space/
+
+**Privacy Resources**
+
+OSINT Tools and Resources
+https://inteltechniques.com/tools/index.html
+
+Unredacted, Privacy Magazine
+Editor: Michael Bazzell
+https://inteltechnique.com/magazine.html
+https://inteltechniques.com/workbook.html
+
+**Privacy Search Enginges**
+
+Password Exposure Resources
+https://inteltechniques.com/exposure.html
+
+Password Exposure
+https://haveibeenpwned.com/Passwords
+
+Remove Data
+https://haveibeenpwned.com/OptOut
+
+Exposure Check
+https://dehashed.com/
+
+Aggregation Sites with High Quality Info
+https://newber.com
+
+**Data Suppression Tools**
+
+Intelius
+https://suppression.peopleconnect.us/login
+
+**Career Information**
+CompTIA Certification Information
+https://https://www.comptia.org/certifications/which-certification
+
+Careers in Cyber
+https://accesscyber.co/careers
+
+For Students with Disabilities
+https://limeconnect.com
+
+**Technical Cybersecurity Information**
+
+MITRE ATT&CK
+Advanced Threat Tactics & Common Knowledge
+https://attack.mitre.org/
+
+NIST NVD
+National Vulnerability Database
+https://nvd.nist.gov/
+
+Common Vulnerability Scoring System Calculator
+* Can be used to visually analyze URL parameters.
+https://www.first.org/cvss/calculator/4.0#
