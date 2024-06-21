@@ -1,11 +1,9 @@
+LIST OF CYBERSECURITY RESOURCES
 
+**Curriculum Resources**
 
-Hacker Lingo / Dictionary
-https://www.netogram.com/hackersdictionarylexicon.html
-
-Children's Cyber Safety Game
-https://beinternetawesome.withgoogle.com/en_us/interland/landing/mindful-mountain
-
+CLARK.Center Cybersecurity Curriculum
+https://clark.center/home
 
 **Learning Environments**
 
@@ -28,8 +26,12 @@ https://pranx.com/hacker
 Hack Prank
 https://hackprank.com
 
+Hacker Lingo / Dictionary
+https://www.netogram.com/hackersdictionarylexicon.html
+
 
 **Hacking Games**
+
 Telehack
 https://www.telehack.com
 
@@ -58,8 +60,14 @@ https://pwning.owasp-juice.shop/companion-guide/latest/
 OverTheWire
 https://overthewire.org/wargames/
 
+OverTheWire has multiple games. Each work the same way as Bandit but are called something different. Bandit is the basic game and all proceed in difficulty.
+
 Bandit CTF (OverTheWire)
 https://overthewire.org/wargames/bandit/
+
+For Children
+Children's Cyber Safety Game (Online Safety)
+https://beinternetawesome.withgoogle.com/en_us/interland/landing/mindful-mountain
 
 **Programming Resources**
 
@@ -88,7 +96,6 @@ Software and device simulators
 
 Chasms has screenshots of many devices, software programs, operating systems and is a great resource for anyone who needs to visually walk someeone through a support call or who needs visual cues.
 Common software such as most versions of email clients, web browsers, browsers, TV's, wireless routers and more.
-
 https://www.chasms.com
 
 Linux Journey - Learn Linux for Free
