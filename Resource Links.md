@@ -29,7 +29,9 @@ Hack Prank
 https://hackprank.com
 
 
-**Hacking Gmaes**
+**Hacking Games**
+Telehack
+https://www.telehack.com
 
 Ransomware Attack Simulator
 https://ig.ft.com/ransomware-game/
@@ -59,7 +61,26 @@ https://overthewire.org/wargames/
 Bandit CTF (OverTheWire)
 https://overthewire.org/wargames/bandit/
 
+**Programming Resources**
 
+Python.org
+https://www.python.org/
+download and install Python, and access documentation and resources for using Python
+
+Invent with Python, by Al Sweigart
+https://inventwithpython.com/
+a website containing “free to read” books that teach you how to write programs in Python
+
+Codecademy
+https://www.codecademy.com/
+free courses for learning to code in a variety of languages
+
+Replit - https://replit.com/
+an online environment that allows you to create and run Python programs online
+
+Violent Python
+https://samsclass.info/124/VP2020.htm
+a website based on the book Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers, by TJ O’Connor; contains CTF challenges for learning Python specifically for cybersecurity
 
 **Other helpfful sites**
 
@@ -106,7 +127,7 @@ https://inteltechniques.com/tools/index.html
 
 Unredacted, Privacy Magazine
 Editor: Michael Bazzell
-https://inteltechnique.com/magazine.html
+https://inteltechniques.com/magazine.html
 https://inteltechniques.com/workbook.html
 
 **Privacy Search Enginges**
