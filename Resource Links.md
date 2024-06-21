@@ -41,6 +41,9 @@ https://ig.ft.com/ransomware-game/
 Data Center Attack
 http://datacenterattacks.trendmicro.com/
 
+Briefcase Escape (crypto introduction)
+https://github.com/dld2517/kc-gencyber-escape
+
 OWASP Juice Shop
 https://owasp-juice.shop
 https://help.owasp-juice.shop/
