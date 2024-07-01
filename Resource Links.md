@@ -109,6 +109,10 @@ Violent Python
 https://samsclass.info/124/VP2020.htm
 a website based on the book Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers, by TJ O’Connor; contains CTF challenges for learning Python specifically for cybersecurity
 
+Python Classroom Resources
+(from Robert Best via Wakelet)
+https://wakelet.com/wake/WS2EogjFu1yZCYuUBM2W1
+
 **Other helpfful sites**
 
 Software and device simulators
